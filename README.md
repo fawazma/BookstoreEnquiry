@@ -23,7 +23,7 @@ java TCPServer
 ```
 and
 ```
-javac TCPClient
+java TCPClient
 ```
 
 
