@@ -15,7 +15,7 @@ javac TCPServer.java
 ```
 java TCPServer
 ```
-- Then, open a second terminal,
+- Then, open a second terminal window,
 #### Compile:
 ```
 javac TCPClient.java
